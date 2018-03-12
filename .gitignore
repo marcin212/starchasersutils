@@ -1,0 +1,9 @@
+/bin
+/run
+/libs
+/build
+/out
+/.gradle
+*.ipr
+*.iws
+*.iml
